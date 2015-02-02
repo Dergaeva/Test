@@ -1,0 +1,13 @@
+{
+   	 "repositories": [
+{
+"type": "vcs",
+"url": "https://github.com/Dergaeva/project11.git"
+}
+],
+    "require": {
+	"Dergaeva/composertask": "dev-master"
+	}
+}
+
+
